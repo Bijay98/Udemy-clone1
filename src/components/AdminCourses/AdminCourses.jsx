@@ -77,7 +77,7 @@ const AdminCourses = () => {
             </td>
           </tr>
           <tr>
-            <th>5</th>
+            <th>6</th>
             <td>UX/UI design</td>
             <img src={design} width="65px"/>
             <td>
