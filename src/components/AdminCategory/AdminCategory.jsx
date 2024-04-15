@@ -7,13 +7,13 @@ const AdminCategory = () => {
     <div className='container-fluid d-flex flex'>
       <div className='container-fluid bg-info-subtle ms-0 min-vh-100 p-5' style={{width:"20rem"}} >
         <ul style={{ listStyle: "none", fontSize: "1.5rem", padding: "5px", textAlign: "start" }}>
-          <Link><li>
+          <Link><li className='bi bi-tags'>
             Categories
           </li></Link>
-          <Link> <li>
+          <Link> <li className='bi bi-boxes'>
             Courses
           </li></Link>
-          <Link><li>
+          <Link><li className='bi bi-person-circle'>
             logout
           </li></Link>
         </ul>

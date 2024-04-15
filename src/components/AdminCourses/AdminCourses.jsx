@@ -66,7 +66,7 @@ const AdminCourses = () => {
             </td>
           </tr>
           <tr>
-            <th>4</th>
+            <th>5</th>
             <td>Hacking</td>
             <img src={hacking} width="65px"/>
             <td>
@@ -77,7 +77,7 @@ const AdminCourses = () => {
             </td>
           </tr>
           <tr>
-            <th>4</th>
+            <th>5</th>
             <td>UX/UI design</td>
             <img src={design} width="65px"/>
             <td>
